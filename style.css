@@ -17,7 +17,7 @@ header {
   padding: 1rem;
 }
 
-a.logo {
+a#logo {
   text-decoration: none;
   color: black;
 }
@@ -29,12 +29,12 @@ a.logo {
   align-items: center;
 }
 
-.logo {
+#logo {
   display: flex;
   align-items: center;
 }
 
-.logo img {
+#logo img {
   height: 5rem;
   border-radius: 5rem;
   border: solid 0.1rem rgba(0, 0, 0, 0.15);
