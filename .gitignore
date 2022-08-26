@@ -1,2 +1,2 @@
-.env
 ignore_test/
+.DS_Store
